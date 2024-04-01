@@ -5,7 +5,7 @@ Maintainer: Unlimited Technology LLC <boss@ccsteam.ru>
 Installed-Size: 626461
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./eXpress_3.14.51_amd64.deb
+Filename: eXpress_3.14.51_amd64.deb
 Size: 219803650
 MD5sum: 99180a281d9f7470a6ef1d1d2fcb85bf
 SHA1: 394179a3714e06d193788eacb04a4ccf8fc28275
