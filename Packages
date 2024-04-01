@@ -6,7 +6,7 @@ Installed-Size: 626461
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Filename: ./eXpress_3.14.51_amd64.deb
-Size: 134
+Size: 219803650
 MD5sum: 99180a281d9f7470a6ef1d1d2fcb85bf
 SHA1: 394179a3714e06d193788eacb04a4ccf8fc28275
 SHA256: 24cdcd41053c6c7195bad489661d11fea73f49ea95316dd382e14591a4ebcc49
