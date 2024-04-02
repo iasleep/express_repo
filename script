@@ -3,7 +3,7 @@
 set -e
 set -v
 (
-	set -c
+	set -e
 	set -v
 
 	cd ./ubuntu/
