@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Tue, 02 Apr 2024 05:56:04 +0000
+MD5Sum:
+ bab2789feebfd980a567de22ca576a19              671 Packages
+ f278b712ad46dcfddc9d0632891f44c6              466 Packages.gz
+ 42f584f83002fcfcc5ea9a2d068f2e80               38 Release
+SHA1:
+ 2daf59f64c941193d2855742a0802799883e3803              671 Packages
+ a07d31860f6c0de0a592fc26d7302b6aa7eb9156              466 Packages.gz
+ f527518ee2e4a0c19e0fa7bac4a3b15cb6d81820               38 Release
+SHA256:
+ 10146381aa2938b975a877b35838a560a20e448887c6ec56c7be5d33dd308458              671 Packages
+ 57e8516490bbea2964bf031406a5d67ba54bbedf418d5868c6cbb4f3cc156939              466 Packages.gz
+ c68583fbe68fda338fa75274202fc240a012f34344cfee20f74037b0f7122ae2               38 Release
+SHA512:
+ 65804f3fd8e90925d8290b05ecfe0a250259a3931d9e37de3df4c3543894269bbc4b0f866b3ecbb077eec0933768c2d942113077d87c284baf329bc7babf9f59              671 Packages
+ 90223b80b6130e462b0bed8ee827af9eb4fe957f2ff999c96ddc8aca625fb669168642a8222211a9aaaeecbccaf17ddf07cda050213dd52c390cd20872edd375              466 Packages.gz
+ 401edcc9c79b3243e67ab453fe7f29dad2d5586b1eb725021e7c647cfee8e801214be025d26a96ea01bbb8b8029ca6b9a043d0ebe2c41ebc88abc974e18f6a57               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJKBAEBCgA0FiEEXq6i1eFyrvmaFxlBaj54wzZwlsAFAmYLnfQWHGlsaWFsZW5k
+YTg2QGdtYWlsLmNvbQAKCRBqPnjDNnCWwF5jEAC6A+wnOy+sGcE+rnEqczMrwCfr
+kHKKXlO46RA92OaF4KuJqn651G/dDp1Bi2y77mne5t+rV1Nh7VYsJJecCtUdUnyv
+Oo/xTdBDd10Y73dCvlRAEai+iS5F+TmxOdWiHP2F4tnJg4Q5nalsdoe54zDF8yuO
+XJdxsPyf0r4s9vFo2zVmw5mbrn9Nbu5jTSnmmm9GtN/nPL3wgN3rXvA7/dh1oQnl
+pXRBeKGW1W0H6lvaicgh9Konuz7ezgSIPSuTvxu/r+ow20Nd8TW+cW4akYbOqay1
+20sr4UU8prHew+MqerBzhADXJb47Pxh0XsJx75uarNPZpua6HATFU7cJ0m4a3Ii/
+3pn3thiJHBzGxuPv7AuX63PVFv5ir6p3VUYmZ1JF7M5FUMSp69APYWrH5RDazBwb
+VnFucDGfpftK3Kbb6X9bYrfhipC5SaQsrXNR4udImv6Beg4NpC8IO4Q5RkQVVdpY
+PDqADWue1OArJ+wG62f6wqpe0H1yH2hdL02d4jzwdjFLHuj43jLEiiCPz0HJF9Vi
+w4S0uxDExMp11e3KNMU59Sqcf9Myb177EjTa9aitlBl0PPvIjqasx8fEKB/lLKNf
+bPW9o5T8N8rwCmCoVZc+DKLcOTy3TnHxUvbiFW4gJ1PKx+YgzeTVmSBZYokr0X84
+fOLC2Il9jeYOQlGUeA==
+=RXpj
+-----END PGP SIGNATURE-----
